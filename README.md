@@ -1,12 +1,15 @@
-##
+## Hono ✖️ Prisma ✖️ Supabase Template
 
 ```bash
-npm install
-npm run dev
+yarn install
+
+yarn dev
 ```
 
+### Deploy
+
 ```bash
-npm run deploy
+yarn deploy
 ```
 
 ## Prisma Migration
